@@ -10,5 +10,5 @@ Basic Programming for Data Science and Data Visualization : ศุภลัก�
 
 
 *final exam  กลุ่ม kibbutzes*
-*  [เตรียมข้อมูล github](https://github.com/suphalaksana/data_viz_2022/blob/main/Final_exam.ipynb)
+*  [Data pre-processing](https://github.com/suphalaksana/data_viz_2022/blob/main/Final_exam.ipynb)
 *  [Dashboard](https://l.facebook.com/l.php?u=https%3A%2F%2Fdatastudio.google.com%2Freporting%2Fc2b2ae9d-2529-48ae-b883-cb3517f476af%3Ffbclid%3DIwAR0Vm5xXpQSuya2b3h_bCrAAIr5Sr4PymqpAdCXNd_G4ScIRf0rIXQIwpw4&h=AT1ceggZPHTR-9IcIprvEjJzVue74Q4zUu3EUzQLDJcQAjZ5oCqxr4ULaTuIuCD71aQueOITFCWpjyklUq9tNdex1cPUwQ2_8lPHWl4lUHvp_CvORp_jeWOaMKfI8ehteRtp_A)
